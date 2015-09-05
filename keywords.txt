@@ -1,0 +1,8 @@
+InfluxDB	KEYWORD1
+InfuxProperties	KEYWORD1
+post	KEYWORD2
+macAddress	KEYWORD2
+influxIP	KEYWORD2
+influxDB	KEYWORD2
+influxUser	KEYWORD2
+influxPassword	KEYWORD2
